@@ -7,4 +7,4 @@
   </tr>
 </table>
 
-I'm currently doing my MEng in the School of Artificial Intelligence and Computer Science at Jiangnan University, majoring in software engineering. My research interest is federated learning. You can reach me via email(may be slow to respond).
+I'm doing my MEng in the School of Artificial Intelligence and Computer Science(School of Software) at Jiangnan University, majoring in software engineering. My research interest is federated learning(Under the guidance of Prof.Dr. Zhenping Xie & Dr. Hangyu Zhu). You can reach me via email.
