@@ -7,4 +7,4 @@
   </tr>
 </table>
 
-I'm doing my MEng in the School of Artificial Intelligence and Computer Science(School of Software) at Jiangnan University, majoring in software engineering. My research interest is federated learning(Under the guidance of Prof.Dr. Zhenping Xie & Dr. Hangyu Zhu). You can reach me via email.
+I'm doing my internship at Robert Bosch GmbH while doing my MEng in the School of Artificial Intelligence and Computer Science(School of Software) at Jiangnan University. I major in software engineering and my research interest is federated learning(Under the guidance of Prof.Dr. Zhenping Xie & Dr. Hangyu Zhu). You can reach me via email.
